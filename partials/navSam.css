@@ -1,0 +1,7 @@
+nav .nav-container {
+  display: flex;
+  justify-content: space-between;
+}
+nav .nav-container .Logo a img {
+  width: 8rem;
+}/*# sourceMappingURL=navSam.css.map */

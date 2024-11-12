@@ -1,0 +1,22 @@
+.looking-for {
+    // padding: 1rem;
+    .looking-head h2 {
+        color: black;
+        font-size: 2rem;
+        padding-top: 1rem 2rem;
+    }
+
+    .looking-content a {
+        display: flex;
+        flex-direction: column;
+        align-items:  center;
+    }
+
+    .looking-content h3 {
+
+    }
+
+    .looking-content img {
+        width: 25rem;
+    }
+}
